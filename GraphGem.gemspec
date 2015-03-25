@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "A simple gem to give a predefined interface for dealing with graphs"
   s.authors     = ["Michael Huelsman"]
   s.email       = 'michael.huelsman@gmail.com'
-  s.files       = ["lib/node/connection.rb", "lib/node/graph_node.rb", "lib/rgraph.rb"]
+  s.files       = ["lib/node/connection.rb", "lib/node/graph_node.rb", "lib/graph.rb"]
   s.homepage    = 'https://github.com/xLeachimx/RGraph'
   s.license       = 'MIT'
 end
