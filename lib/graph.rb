@@ -1,7 +1,7 @@
 require_relative 'node/graph_node'
 require_relative 'node/connection'
 
-class RGraph
+class Graph
 	attr_reader :nodes
 
 	# creates a blank graph

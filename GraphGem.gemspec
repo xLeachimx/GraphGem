@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'rgraph'
+  s.name        = 'graphgem'
   s.version     = '0.1.0'
   s.date        = '2014-12-10'
   s.summary     = "An implmentaion of a graph ADT"
