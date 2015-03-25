@@ -5,17 +5,17 @@ GraphGem
 Installation
 =======
 ```
-gem install rgraph
+gem install graphgem
 ```
 
 ========
 Including in project
 ========
 ```ruby
-require 'rgraph'
+require 'graph'
 ```
 
 ========
 Documentaion
 ========
-see [wiki](https://github.com/xLeachimx/RGraph/wiki)
+see [wiki](https://github.com/xLeachimx/GraphGem/wiki)
