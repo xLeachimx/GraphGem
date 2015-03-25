@@ -1,2 +1,21 @@
-# RGraph
-A ruby gem implementation of the graph ADT
+RGraph
+=======
+
+=======
+Installation
+=======
+```
+gem install rgraph
+```
+
+========
+Including in project
+========
+```ruby
+require 'rgraph'
+```
+
+========
+Documentaion
+========
+see [wiki](https://github.com/xLeachimx/RGraph/wiki)
