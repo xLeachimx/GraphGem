@@ -39,6 +39,11 @@ class Graph
 		return getNode(from).getConnection(to).weight
 	end
 
+	def modifyWeight from, to, newWeight
+		return nil if !isNode?(from) || !isNode?(to)
+		getNode(from).getConnection(to).weight = newWeight
+	end
+
 	def isConnected? from, to
 		return nil if !isNode?(from) || !isNode?(to)
 		return getNode(from).connectedTo?(to)
